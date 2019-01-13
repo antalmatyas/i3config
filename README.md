@@ -13,4 +13,9 @@ using the video https://www.youtube.com/watch?v=ARKIwOlazKI
 - set smooth transitions
 
 
-This requires installation of feh, compton and rofi
+This requires installation of 
+--feh : ss feh
+--compton : ss compton
+--rofi : ss rofi
+
+will include polybar:: https://github.com/jaagr/polybar

@@ -14,8 +14,13 @@ using the video https://www.youtube.com/watch?v=ARKIwOlazKI
 
 
 This requires installation of 
---feh : ss feh
---compton : ss compton
---rofi : ss rofi
+-feh : ss feh
+-compton : ss compton
+-rofi : ss rofi
 
-will include polybar:: https://github.com/jaagr/polybar
+Future changes:
+
+- have to include and config polybar:: https://github.com/jaagr/polybar
+- have to config the look of rofi launcher
+- figure out a general theme for the desktop
+

@@ -179,7 +179,7 @@ exec --no-startup-id i3-msg 'exec /usr/bin/pulseaudio --start'
 
 exec_always feh --bg-fill /home/sol/Pictures/wallpapers/wall.png
 
-exec_always compton -f
+exec_always compton -f --config ~/.config/compton/compton.conf
 
 #lock screen key binding
 bindsym $mod+Shift+x exec i3lock --color "#2C001E"
